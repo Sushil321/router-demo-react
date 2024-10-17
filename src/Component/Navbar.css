@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.active{
+    color: yellow;
+}
